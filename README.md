@@ -1,3 +1,6 @@
+## 'yarn install' or 'npm install' 
+It install all the dependancy for working with this react app
+
 
 ## Available Scripts
 
